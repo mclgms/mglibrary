@@ -1,0 +1,1 @@
+./vendor/bin/phpunit --bootstrap init.php app/tests/
